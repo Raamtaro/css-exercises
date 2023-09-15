@@ -23,6 +23,7 @@ body {
   padding: 20px;
   display: flex;
   justify-content: space-between;
+  gap: 20px;
 }
 
 .icon {
@@ -81,7 +82,7 @@ button.cancel {
   display: flex;
   flex-direction: column;
   gap: 20px;
-  padding: 20px;
+  /* padding: 10px; */
   align-items: flex-start;
 }
 
